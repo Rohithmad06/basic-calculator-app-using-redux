@@ -1,0 +1,4 @@
+How to use the downloaded files
+
+1) Run "npm install" to get all the node_modules in the extracted folder
+2) Run "npm start" to view the project
